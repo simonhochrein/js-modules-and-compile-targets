@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    "module": "System",
+    "outFile": "bundle.js"
+  },
+  "include": ["main.ts", "helpers/util.ts"]
+}
